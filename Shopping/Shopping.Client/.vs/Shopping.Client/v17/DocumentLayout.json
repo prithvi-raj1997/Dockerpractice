@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\Desktop\\Docker_practice\\Dockerpractice\\Shopping\\Shopping.Client\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C4E3F8CB-CC5F-4F94-9937-A7657D4E2FAD}|Shopping.Client\\Shopping.Client.csproj|c:\\users\\dell\\desktop\\docker_practice\\dockerpractice\\shopping\\shopping.client\\shopping.client\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C4E3F8CB-CC5F-4F94-9937-A7657D4E2FAD}|Shopping.Client\\Shopping.Client.csproj|solutionrelative:shopping.client\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Docker_practice\\Dockerpractice\\Shopping\\Shopping.Client\\Shopping.Client\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Shopping.Client\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Docker_practice\\Dockerpractice\\Shopping\\Shopping.Client\\Shopping.Client\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Shopping.Client\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-20T13:41:00.314Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
